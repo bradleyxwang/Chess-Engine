@@ -23,7 +23,7 @@ class Bishop:
             else:
                 possibleMoves.append(square)
                 i += 1
-        
+         
         i = 1
         while (i <= min((7-self.xpos), self.ypos)): #top-right movement
             square = grid[self.ypos - i][self.xpos + i]
