@@ -6,7 +6,8 @@ This project was created April 17th 2020
 
 ## Getting Started
 
-The main chess engine program is the file named "ChessPythonMainProgram.py".
+The main chess engine program is the file named "ChessPythonMainProgram.py". The user plays white and the chess engine plays black.
+
 There is also a 2 player version in the file named "ChessPython2Player.py".
 
 ## Authors
