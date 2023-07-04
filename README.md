@@ -8,12 +8,8 @@ This is a chess engine that I created using Python's tkinter graphical user inte
 
 ![](https://imgur.com/bAAuxgk.gif)
 
-## Getting Started
+# Getting Started
 
 The main chess engine program is the file named "ChessPythonMainProgram.py".
 
 There is also a 2 player version in the file named "ChessPython2Player.py".
-
-## Authors
-
-Bradley Wang (myself)
